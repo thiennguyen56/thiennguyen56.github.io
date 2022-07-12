@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://thiennguyen56.github.io/posts/my-second-post/</loc>
+    <lastmod>2022-07-10T20:20:07+07:00</lastmod>
+  </url><url>
+    <loc>https://thiennguyen56.github.io/posts/</loc>
+    <lastmod>2022-07-10T20:20:07+07:00</lastmod>
+  </url><url>
+    <loc>https://thiennguyen56.github.io/</loc>
+    <lastmod>2022-07-10T20:20:07+07:00</lastmod>
+  </url><url>
+    <loc>https://thiennguyen56.github.io/tags/</loc>
     <lastmod>2022-07-10T20:19:41+07:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/tags/emoji/</loc>
+    <loc>https://thiennguyen56.github.io/tags/emoji/</loc>
     <lastmod>2022-07-10T20:19:41+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://thiennguyen56.github.io/posts/my-first-post/</loc>
     <lastmod>2022-07-10T20:19:41+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-07-10T20:19:41+07:00</lastmod>
+    <loc>https://thiennguyen56.github.io/archives/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-07-10T20:19:41+07:00</lastmod>
+    <loc>https://thiennguyen56.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/archives/</loc>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://thiennguyen56.github.io/search/</loc>
   </url>
 </urlset>
