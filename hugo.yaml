@@ -1,0 +1,96 @@
+baseURL: https://thiennguyen56.github.io/
+title: Mike Blog
+theme: PaperMod
+enableRobotsTXT: true
+disqusShortname: thiennguyen56
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+pagination:
+  pagerSize: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Mike Blog
+  description: Personal notes and writing by Thien Nguyen.
+  author: Thien Nguyen
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons:
+    - x
+    - linkedin
+    - facebook
+    - reddit
+    - telegram
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  comments: true
+  socialIcons:
+    - name: github
+      url: https://github.com/thiennguyen56
+    - name: rss
+      url: index.xml
+
+languages:
+  en:
+    contentDir: content/en
+    locale: en-us
+    label: English
+    weight: 1
+    title: Mike Blog
+    params:
+      homeInfoParams:
+        Title: Hello!
+        Content: Welcome to Mike Blog. This is where I write notes, ideas, and lessons from work and learning.
+    menu:
+      main:
+        - identifier: archives
+          name: Archive
+          url: /archives/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 30
+  vi:
+    contentDir: content/vi
+    locale: vi-vn
+    label: Vietnamese
+    weight: 2
+    title: Mike Blog
+    params:
+      homeInfoParams:
+        Title: Xin chao!
+        Content: Chao mung ban den voi Mike Blog. Day la noi minh ghi lai ghi chu, y tuong, va nhung dieu hoc duoc trong cong viec.
+    menu:
+      main:
+        - identifier: archives
+          name: Luu tru
+          url: /archives/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: search
+          name: Tim kiem
+          url: /search/
+          weight: 30
