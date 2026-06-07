@@ -19,7 +19,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
-service:
+services:
   googleAnalytics:
     ID: G-BTS6PE0FDG
 
