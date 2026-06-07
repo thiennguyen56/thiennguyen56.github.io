@@ -19,6 +19,10 @@ minify:
   disableXML: true
   minifyOutput: true
 
+service:
+  googleAnalytics:
+    ID: G-BTS6PE0FDG
+
 params:
   env: production
   title: Mike Blog
@@ -70,6 +74,10 @@ languages:
           name: Search
           url: /search/
           weight: 30
+        - identifier: support
+          name: Support
+          url: /donate/
+          weight: 40
   vi:
     contentDir: content/vi
     locale: vi-vn
@@ -94,3 +102,7 @@ languages:
           name: Tim kiem
           url: /search/
           weight: 30
+        - identifier: support
+          name: Ung ho
+          url: /donate/
+          weight: 40

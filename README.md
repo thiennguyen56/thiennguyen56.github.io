@@ -36,6 +36,15 @@ Post likes need a backing service because Hugo generates static files. Good opti
 - Add a small backend or serverless endpoint for like counts.
 - Use a third-party reaction widget.
 
+## Donations
+
+The bilingual donate/support pages live at:
+
+- `content/en/donate.md`
+- `content/vi/donate.md`
+
+Add a real payment link from Buy Me a Coffee, Ko-fi, GitHub Sponsors, PayPal, or another provider before presenting it as a live donation page.
+
 ## Deploy
 
 The GitHub Actions workflow in `.github/workflows/hugo.yml` builds the site with Hugo `0.162.1` and deploys `public/` to GitHub Pages.
