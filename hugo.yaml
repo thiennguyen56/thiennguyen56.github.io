@@ -23,6 +23,13 @@ services:
   googleAnalytics:
     ID: G-BTS6PE0FDG
 
+module:
+  mounts:
+    - source: static
+      target: static
+    - source: images
+      target: static/images
+
 params:
   env: production
   title: Mike Blog
