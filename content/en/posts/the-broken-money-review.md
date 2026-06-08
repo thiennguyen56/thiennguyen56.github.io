@@ -8,7 +8,7 @@ tags = ["book", "book-review"]
 
 ## Overview
 
-After I finished a book **If You Can**, I have asked people in reddit about the next book that It could help me to understand better to money and investment. Then, the most suggestion from people is **Broken Money** a book about how money works, how it evolved, and why the current monetary system has serious problems. Lyn Alden explains that money is not only an economic tool, but also **a technology**. As technology improves, the way humans store value, exchange value, and measure value also changes.
+After finishing the book **If You Can**, I asked people on Reddit for recommendations for the next book that could help me better understand money and investing. The most suggested book was Broken Money, a book about how money works, how it evolved, and why the current monetary system has serious problems. Lyn Alden explains that money is not only an economic tool, but also **a technology**. As technology improves, the way humans store value, exchange value, and measure value also changes.
 
 The book looks at money through history, economics, banking, geopolitics, and digital technology. Its main idea is that the modern financial system is “broken” because it depends heavily on **debt, inflation, and currency debasement**.
 
