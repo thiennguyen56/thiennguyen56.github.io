@@ -6,11 +6,12 @@ translationKey = 'donate'
 
 If this blog has helped you, the best support is to share a post with someone who may find it useful.
 
-Donation links are not connected yet. Add one of these options when ready:
+If you would like to support my writing, you can buy me a coffee on Ko-fi. It helps me keep writing, learning, and sharing useful things here.
 
-- Buy Me a Coffee
-- Ko-fi
-- GitHub Sponsors
-- PayPal
-
-After the payment link is ready, replace this section with the real donation button or link.
+{{< rawhtml >}}
+<p>
+  <a href="https://ko-fi.com/mikenguyen56" target="_blank" rel="noopener noreferrer">
+    <img height="36" style="border:0;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Support me on Ko-fi" />
+  </a>
+</p>
+{{< /rawhtml >}}
